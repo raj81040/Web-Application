@@ -6,7 +6,7 @@ This repository contains my project submissions for the internship application. 
 
 1. **Frontend Development:**
    - A responsive webpage with features like a fixed navbar, collapsible menu, and responsive design using JavaScript.
-   - https://github.com/raj81040/Web-Application/tree/main(#)
+   - https://github.com/raj81040/Web-Application/tree/main
 
 2. **Django Chat Application (In Progress):**
    - A real-time chat application with user authentication and WebSocket integration.
